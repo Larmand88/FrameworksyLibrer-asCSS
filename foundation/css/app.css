@@ -1,4 +1,23 @@
+body{
+    background-image: url(/img/cocina.jpg);
+    
+}
 div{
-    border: 1px solid black;
-    padding: 2px;
+    padding: 5px;
+    border: 0px solid black;
+}
+.fotosRecetas{
+    width: 100%;
+}
+.platosOpcionales{
+    width: 30%;
+}
+i {
+  font-size: 30px;
+}
+li,a{
+    color: black;
+}
+.mainOne{
+    background: rgba(89, 125, 133, 0.6);
 }
