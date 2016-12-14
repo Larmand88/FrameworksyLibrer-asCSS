@@ -1,0 +1,28 @@
+body{
+    background: url(../../img/background.jpg) center;
+    background-size: contain;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+}
+.contenedorUno{
+    background: #ffd600;
+    height: 80px;
+}
+.segundoContenedor{
+    margin-top: 10px;
+}
+.barradeNavegacion{
+    height: 100%;
+}
+.imagenBordes{
+    padding: 2px;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+.centradoTexte{
+    text-align: justify;
+}
