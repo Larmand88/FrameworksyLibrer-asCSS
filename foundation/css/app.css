@@ -1,6 +1,5 @@
 body{
-    background-image: url(/img/cocina.jpg);
-    
+    background-image: url(../../img/cocina.jpg);
 }
 div{
     padding: 5px;
